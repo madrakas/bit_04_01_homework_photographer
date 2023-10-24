@@ -63,7 +63,38 @@ nav > a {
 }
 
 nav > a:hover{
-    /* border-bottom: #212221 solid 4px; */
     background-color: #212221;
     color: white;
+}
+
+.subheader {
+    display: inline-block;
+    width: 74%;
+    margin: 30px 13% 54px 13%;
+    text-align: center;
+}
+
+.subheader .trailing-line, .headlight {
+    float: left;
+    height: 40px;
+}
+
+.subheader .trailing-line{
+    background-image: url('../img/trailing-line.png');
+    background-repeat: repeat-x;
+    width: calc(50% - 150px);
+}
+
+.subheader .headlight{
+    width: 300px;
+    }
+
+.subheader  .headlight h3 {
+    /* height: 42px; */
+    line-height: 40px;
+}
+
+.subheader .subheader-description {
+    margin-top: 24px;
+    display: inline-block;
 }
