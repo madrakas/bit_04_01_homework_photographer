@@ -220,3 +220,54 @@ nav > a:hover{
     font-weight: bold;
     font-size: 13px;
 }
+
+
+/* ##### Dark horizontal spanner ##### */
+
+.dark-horizontal-spanner {
+    background-color: #1E1F1E;
+    color: white;
+    width: 100%;
+    min-height: 80px;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.dark-horizontal-spanner .spanner-left{
+    background-image: url('../img/dark-ornament-left.png');
+    background-size: 30%;
+    background-position: right 30px center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 38%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.dark-horizontal-spanner .spanner-right{
+    background-image: url('../img/dark-ornament-right.png');
+    background-size: 30%;
+    background-position: left 30px center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 38%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.dark-horizontal-spanner .spaner-container{
+    width: 24%;
+    margin-left: 20%;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.dark-horizontal-spanner .spaner-container p {
+    font-size: 24px;
+    font-style: italic;
+}
+
