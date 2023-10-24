@@ -24,6 +24,7 @@ content {
     width: 1200px;
     display: block;
     margin-left: calc(50% - 600px);
+    background-color: white;
 }
 
 header {
@@ -41,4 +42,28 @@ h1 {
 
 header > p{
     text-align: center;
+}
+
+nav {
+    width: 100%;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+nav > a {
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 18px;
+    color: #212221;
+    padding: 16px 16px;
+}
+
+nav > a:hover{
+    /* border-bottom: #212221 solid 4px; */
+    background-color: #212221;
+    color: white;
 }
