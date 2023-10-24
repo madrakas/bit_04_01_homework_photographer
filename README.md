@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://madrakas.github.io/04_02_photographer-portfolio/
 
-Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-photographer)
+Design: [Photographer porfolio](https://madrakas.github.io/04_02_photographer/)
 
 ## 🎯 Project features/goals
 
