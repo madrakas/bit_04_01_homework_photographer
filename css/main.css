@@ -118,3 +118,49 @@ nav > a:hover{
     background-position: center;
     background-size: cover;
 }
+
+/* ##### article ##### */
+
+.article {
+    width: 100%;
+    padding: 96px 10% 20px 10%;
+    display: inline-block;
+}
+
+.article h2, h3{
+    text-transform: none;
+}
+
+.article h2 {
+    margin-bottom: 10px;
+    font-size: 62px;
+}
+
+.article h3 {
+    font-family: 'Handlee', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+}
+
+.article p {
+    text-align: justify;
+    margin-bottom: 13px;
+    font-size: 16px;
+}
+
+.article .img-align-right {
+    float: right;
+    width: 448px;
+    padding-left: 28px;
+    height: 549px;
+    object-fit: cover;
+}
+
+.article .img-align-left {
+    float: left;
+    width: 448px;
+    padding-right: 28px;
+    height: 549px;
+    object-fit: cover;
+}
+
+/* background-color: lightsalmon; */
