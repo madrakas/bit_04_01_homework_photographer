@@ -189,7 +189,6 @@ nav > a:hover{
     background-repeat: repeat-y;
 }
 
-
 .article .info{
     position: absolute;
     top: 0;
@@ -205,6 +204,7 @@ nav > a:hover{
     background-color: white;
     padding-top: 6px;
 }
+
 
 /* ##### white horizontal spanner ##### */
 
@@ -310,3 +310,25 @@ nav > a:hover{
     font-style: italic;
 }
 
+
+/* ##### three column gallery ##### */
+
+.three-column-gallery{
+    display: inline-block;
+    width: 100%;
+    margin: 80px 0;
+}
+
+.three-column-gallery img{
+    width: 300px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.three-column-gallery img + img{
+    margin-left:20px
+}
+
+.three-column-gallery img:nth-child(1){
+    margin-left: calc(50% - 470px);
+}
