@@ -332,3 +332,67 @@ nav > a:hover{
 .three-column-gallery img:nth-child(1){
     margin-left: calc(50% - 470px);
 }
+
+/* ##### reviews #####*/
+
+.reviews {
+    width: 100%;
+    height: 240px;
+    margin: 80px 0 110px 0;
+    background-color: lightsalmon;
+    display: inline-block;
+}
+
+.reviews > .review {
+    height: 240px;
+    width: 330px;
+    float: left;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: #F5F5F5 2px solid;
+    border-radius: 6px;
+}
+
+.reviews > .review:nth-child(1){
+    margin-left: calc(50% - 528px);
+}
+
+.reviews > .review + .review{
+    margin-left: 18px;
+}
+
+.reviews > .arrow{
+    position: relative;
+    height: 240px;
+    width: 20px;
+    float: left;
+    margin-left: 11px;
+    background-color: bisque;
+}
+
+.reviews > .arrow img{
+    position: absolute;
+    top: calc(50% - 20px);
+}
+
+.review-header {
+    display: inline-block;
+    width: 100%;
+    background-color: aquamarine;
+    margin-bottom: 12px;
+}
+
+.review-header img{
+    width:35px;
+    height: 35px;
+    float: left;
+}
+
+.review-header p{
+    padding: 10px 16px;
+    float: left;
+    width: calc(100% - 35px);
+    background-color: burlywood;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+}
