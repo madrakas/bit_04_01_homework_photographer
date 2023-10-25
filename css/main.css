@@ -500,3 +500,8 @@ footer .back-to-top-container i {
     border: white 2px solid;
     border-radius: 69%;
 }
+
+footer .back-to-top-container i:hover{
+    background-color: white;
+    color: black;
+}
