@@ -13,10 +13,11 @@ _My journey to become a full stack developer_
 
 This project is a part of my workbook from Full stack developers course at BIT This is the 4th part of the course – Practice No.1: Photographer website.
 
+Projects porpuses are educational only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
 Site published at: [https://madrakas.github.io/bit_04_01_homework_photographer/](https://madrakas.github.io/bit_04_01_homework_photographer/)
 
-Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-photographer)
-
+Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-photographer/)
 
 ## 🧭 Other repositories from same course
 1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
@@ -25,6 +26,7 @@ Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-ph
 4. [HTML and CSS,  Real Estate Website](https://github.com/madrakas/bit_04_html_real_estate/)
     1. Practice No.1: Photographer website (Current repository)
     2. [Practice No.2: Collab landing page](https://github.com/madrakas/bit_04_01_homework_colab/)
+5. [aaaa](www.github.com)
 
 ## 🎯 Project features/goals
 
@@ -72,4 +74,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ## 🔗 Other resources
 * [Favicon generator](https://realfavicongenerator.net/)
 * [Custom font](https://fonts.google.com/specimen/Playfair+Display)
-* [Figma Collab design](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design)
+* [Photographer porfolio design on Dribble](https://dribbble.com/shots/22848649-Webdesign-photographer/)
