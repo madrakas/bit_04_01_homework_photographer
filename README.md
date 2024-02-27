@@ -3,24 +3,35 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Photographer Portfolio Website
+# BIT Full stack developer course – Part 4. Practice: Colab Website
 
-_website design project_
+_My journey to become a full stack developer_
 
 <br>
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is a part of my workbook from Full stack developers course at BIT This is the 4th part of the course – Practice No.1: Photographer website.
 
-Site published at: [https://madrakas.github.io/04_02_photographer-portfolio](https://madrakas.github.io/04_02_photographer/)
+Site published at: [https://madrakas.github.io/bit_04_01_homework_photographer/](https://madrakas.github.io/bit_04_01_homework_photographer/)
 
 Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-photographer)
 
+## 🧭 Other repositories from same course
+    1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
+    2. [Intro to HTML and CS](https://github.com/madrakas/bit_02_Intro_to_html/)
+    3. [HTML and CSS basics, UFO 404 page](https://github.com/madrakas/bit_03_html-ufo)
+    4. [HTML and CSS,  Real Estate Website](https://github.com/madrakas/bit_04_html_real_estate/)
+        4.1. Practice: Photographer webpage (Current repository)
+        4.2. [Homework Collab landing page](https://github.com/madrakas/bit_04_01_homework_colab)
+
 ## 🎯 Project features/goals
 
--   Github pages
--   Desktop only
+*   Learn:
+    *   CSS
+    *   Plan and track your project, Github Projects
+    *   Use dribble design photo to create a website
+*   Design is for desktop only
 
 ## 🧰 Getting Started
 
@@ -76,3 +87,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ## 🔗 Other resources
 
 [Favicon generator](https://realfavicongenerator.net/)
+[Custom font](https://fonts.google.com/specimen/Playfair+Display)
