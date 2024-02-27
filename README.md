@@ -30,7 +30,7 @@ Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-ph
 
 *   Learn:
     *   CSS
-    *   Plan and track your project, Github Projects
+    *   Plan and track my project, Github Projects
     *   Use dribble design photo to create a website
 *   Design is for desktop only
 
