@@ -70,6 +70,6 @@ Sensei: Rimantas [Github](https://github.com/belauzas)
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
-[Favicon generator](https://realfavicongenerator.net/)
-[Custom font](https://fonts.google.com/specimen/Playfair+Display)
-[Figma Collab design](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design)
+* [Favicon generator](https://realfavicongenerator.net/)
+* [Custom font](https://fonts.google.com/specimen/Playfair+Display)
+* [Figma Collab design](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design)
